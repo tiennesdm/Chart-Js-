@@ -1,0 +1,40 @@
+{
+    "username":"Shubham Mehta",
+    "data":[
+        { 
+            "username":"shubahm.mehta@gmail.com",
+            "platform": "LinkedIn",
+            "status": "Active"
+        },
+        {
+            "username": "abc123@gmail.com",
+            "platform": "Pinterest",
+            "status": "Active"
+        },
+        {
+            "email": "xyz@gmail.com",
+            "platform": "FaceBook",
+            "status": "Active"
+        },
+        {
+            "email": "abc@gmail.com",
+            "platform": "LinkedIn",
+            "status": "Active"
+        },
+        {
+            "email": "wer@gmail.com",
+            "platform": "LinkedIn",
+            "status": "Active"
+        },
+        {
+            "email": "shubahm.mehta@gmail.com",
+            "platform": "FaceBook",
+            "status": "Active"
+        },
+        {
+            "email": "tyu@gmail.com",
+            "platform": "LinkedIn",
+            "status": "Active"
+        }
+    ]
+}
